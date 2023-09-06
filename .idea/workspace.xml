@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a96116a-3027-4765-906e-23e9ec1a0457" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture10_TheForStatement/Lecture10_TheForStatement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture11_WhileAndDoWhile/Lecture11_WhileAndDoWhile.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture1_HelloWorld/Lecture1_HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture2_Primitive_Types/Lecture2_Primitive_Types.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture3_String_Data_Type/Lecture3_String_Data_Type.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture4_Operators/Lecture4_Operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture6_KeywordsAndExpressions/Lecture6_KeywordsAndExpressions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture7_JavaMethods/Lecture7_JavaMethods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture8_MethodOverloading/Lecture8_MethodOverloading.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lecture9_SwitchStatement/Lecture9_SwitchStatement.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2V2PXWuc4FGvp42CEOlVcm5cW7H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a96116a-3027-4765-906e-23e9ec1a0457" name="Changes" comment="" />
+      <created>1694031243018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694031243018</updated>
+      <workItem from="1694031246190" duration="159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

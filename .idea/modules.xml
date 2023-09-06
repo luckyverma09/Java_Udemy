@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Udemy.iml" filepath="$PROJECT_DIR$/.idea/Java_Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/Lecture10_TheForStatement/Lecture10_TheForStatement.iml" filepath="$PROJECT_DIR$/Lectures/Lecture10_TheForStatement/Lecture10_TheForStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/Lecture11_WhileAndDoWhile/Lecture11_WhileAndDoWhile.iml" filepath="$PROJECT_DIR$/Lectures/Lecture11_WhileAndDoWhile/Lecture11_WhileAndDoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/Lecture1_HelloWorld/Lecture1_HelloWorld.iml" filepath="$PROJECT_DIR$/Lectures/Lecture1_HelloWorld/Lecture1_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/Lecture2_Primitive_Types/Lecture2_Primitive_Types.iml" filepath="$PROJECT_DIR$/Lectures/Lecture2_Primitive_Types/Lecture2_Primitive_Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/Lecture3_String_Data_Type/Lecture3_String_Data_Type.iml" filepath="$PROJECT_DIR$/Lectures/Lecture3_String_Data_Type/Lecture3_String_Data_Type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/Lecture4_Operators/Lecture4_Operators.iml" filepath="$PROJECT_DIR$/Lectures/Lecture4_Operators/Lecture4_Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/Lecture5_if_then_statement/Lecture5_if_then_statement.iml" filepath="$PROJECT_DIR$/Lectures/Lecture5_if_then_statement/Lecture5_if_then_statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/Lecture6_KeywordsAndExpressions/Lecture6_KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/Lectures/Lecture6_KeywordsAndExpressions/Lecture6_KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/Lecture7_JavaMethods/Lecture7_JavaMethods.iml" filepath="$PROJECT_DIR$/Lectures/Lecture7_JavaMethods/Lecture7_JavaMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/Lecture8_MethodOverloading/Lecture8_MethodOverloading.iml" filepath="$PROJECT_DIR$/Lectures/Lecture8_MethodOverloading/Lecture8_MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/Lecture9_SwitchStatement/Lecture9_SwitchStatement.iml" filepath="$PROJECT_DIR$/Lectures/Lecture9_SwitchStatement/Lecture9_SwitchStatement.iml" />
+    </modules>
+  </component>
+</project>
