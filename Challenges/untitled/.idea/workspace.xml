@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c28c97c-b584-49e5-b592-2ea92722dc2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenge2_PrimitiveTypes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Challenge2_PrimitiveTypes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +29,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/SM/GitHub/Java_Udemy/Java_Udemy/Lectures",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694087933081</updated>
       <workItem from="1694087934157" duration="58000" />
-      <workItem from="1694103427004" duration="599000" />
+      <workItem from="1694103427004" duration="1229000" />
     </task>
     <servers />
   </component>
