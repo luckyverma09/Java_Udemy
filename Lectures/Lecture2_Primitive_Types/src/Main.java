@@ -61,7 +61,7 @@ public class Main {
 
     char myChar = 'D'; //The char data type allows you to only store 1 character. It is mandatory to use single quotes to enclose the character. To store multiple characters use String data type.
     //Char data type occupies 2 bytes of data in memory(16 bits) because it requires that amount of bits to store all unicode characters.
-    char unicodeChar = '\u0044'; //This is also used to store the character 'D' in the char variable. For characters that are not in the keyboard we can use the unicode table to find its corresponding unicode and store it using \u__unicode__.
+    char unicodeChar = '\u0044'; //This is also used to store the character 'D' in the char variable. For characters that are not in the keyboard we can use the unicode table to find its corresponding unicode and store it using u__unicode__.
     char decimalChar = 68; //This also stores 'D' inside the variable as 68 is the decimal representation of the character literal 'D'. All 3 of the above are valid ways to store characters in char variables.
 
     boolean myTrueValue = true;
