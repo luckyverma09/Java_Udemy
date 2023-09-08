@@ -1,7 +1,7 @@
 public class Main {
   public static void main(String[] args) {
     //A method signature is used to determine which method is being called. It consists of the method name, uniqueness of the parameters (number and types used, order). Parameter names and return type of the method are not part of the signature.
-    int newScore = playerScore("Anik", 500);
+    int newScore = playerScore("Lucky", 500);
     System.out.println("New score is : " + newScore);
 
     playerScore(6454);
