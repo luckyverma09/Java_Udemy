@@ -7,7 +7,7 @@ public class NumberOfDaysInMonth {
     }
 
     public static int getDaysInMonth(int month, int year) {
-        if (month < 0 || month > 12) return -1;
+        if ((month < 0 || month > 12) || (year <= 0 || year > 9999)) return -1;
         switch (month) {
             case 1:
             case 3:
