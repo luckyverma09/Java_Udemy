@@ -1,6 +1,6 @@
 public class Main {
-  public static void main(String[] args) {
-    //If we make changes to fields in another class we need to make the change everywhere. So encapsulation also ensures that we only use fields in certain areas and as such we only need to make changes to those areas.
+    public static void main(String[] args) {
+        //If we make changes to fields in another class we need to make the change everywhere. So encapsulation also ensures that we only use fields in certain areas and as such we only need to make changes to those areas.
 //    Player player = new Player();
 //    player.name = "Anik";
 //    player.health = 20;

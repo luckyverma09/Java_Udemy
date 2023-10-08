@@ -1,8 +1,8 @@
 public class NextMain {
 
   public static void main(String[] args) {
-    Movie movie = Movie.getMovie("A", "Jaws");
-    movie.watchMovie();
+    Movie movie = Movie.getMovie("A", "Jaws");    //methods that return instance objects are called instance objects.
+    movie.watchMovie(); //watchMovie is a method of class Movie. It is called a virtual method. It is called virtual because it is overridden in the child classes. The method that is called depends on the runtime type of the object.
 
     Adventure jaws = (Adventure) Movie.getMovie("A", "Jaws"); //intellij will throw an error if we don't type cast Movie.getMovie to Adventure as the method may return an object of a different class than adventure. To let compiler know that the object is really going to of class Adventure we pass it as typecast.
     jaws.watchMovie();
